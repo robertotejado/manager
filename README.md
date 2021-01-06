@@ -1,2 +1,2 @@
 # manager
-manager for ubuntu 
+manager for ubuntu written in python
